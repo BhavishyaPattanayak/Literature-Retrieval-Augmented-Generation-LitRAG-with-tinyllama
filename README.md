@@ -1,6 +1,6 @@
 # Literature-Retrieval-Augmented-Generation-(LitRAG)-with-tinyllama
 
-LitRAG (Literature Retrieval-Augmented Generation) is a lightweight, local RAG (Retrieval-Augmented Generation) pipeline for question answering on literary texts. This version uses FAISS for retrieval and TinyLlama-1.1B-Chat for generation — all running offline once set up.
+LitRAG (Literature Retrieval-Augmented Generation) is a lightweight, local RAG (Retrieval-Augmented Generation) pipeline for question answering on literary texts. This version uses FAISS for retrieval and TinyLlama-1.1B-Chat for generation, all running offline once set up.
 
 ## Project Structure 
 
